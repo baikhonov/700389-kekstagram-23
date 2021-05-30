@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Самрат Байхонов](https://up.htmlacademy.ru/javascript/23/user/700389).
-* Наставник: `Неизвестно`.
+* Наставник: [Master Yoda](https://up.htmlacademy.ru/javascript/23/user/700389).
 
 ---
 
